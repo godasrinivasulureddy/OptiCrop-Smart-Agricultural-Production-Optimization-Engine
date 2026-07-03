@@ -1,0 +1,33 @@
+{
+    "training_date": "2026-07-02T14:49:16.340557Z",
+    "dataset_records": 2200,
+    "best_model": "Random Forest",
+    "best_accuracy": 0.9954545454545455,
+    "models": {
+        "Logistic Regression": {
+            "Accuracy": 0.9818,
+            "Precision": 0.983,
+            "Recall": 0.9818,
+            "F1_Score": 0.9817
+        },
+        "Decision Tree": {
+            "Accuracy": 0.9909,
+            "Precision": 0.9911,
+            "Recall": 0.9909,
+            "F1_Score": 0.9909
+        },
+        "Random Forest": {
+            "Accuracy": 0.9955,
+            "Precision": 0.9958,
+            "Recall": 0.9955,
+            "F1_Score": 0.9954
+        },
+        "KNN": {
+            "Accuracy": 0.9818,
+            "Precision": 0.9844,
+            "Recall": 0.9818,
+            "F1_Score": 0.9815
+        }
+    },
+    "kmeans_inertia": 8105.863754921278
+}

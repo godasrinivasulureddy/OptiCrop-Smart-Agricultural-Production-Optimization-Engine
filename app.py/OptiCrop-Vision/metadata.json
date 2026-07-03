@@ -1,0 +1,1 @@
+{"name":"OptiCrop Vision","description":"Optional AI vision module for OptiCrop to diagnose leaf/crop health, generate prevention strategies, and provide developer integration blueprints.","requestFramePermissions":[],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
